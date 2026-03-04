@@ -1,7 +1,13 @@
 # Online-Store-Sales-Dashboard
 
-Analyzing different sales trend based on the given dataset using dashboard
+## Project Overview
 
-The dataset contains 1201 rows and 14 columns containing details of orders, products, customers and sales data.
+This project involves a comprehensive data analysis of an Ecommerce dataset containing 1,201 rows and 14 columns. By transforming raw transactional data into an interactive Excel dashboard, I uncovered critical trends in customer behavior, product performance, and regional sales growth.
 
-In this the Online store sales were analyzed and insights gathered
+## Key Features & Analysis
+
+Interactive Sales Dashboard: Developed using Pivot Tables and Dynamic Slicers, allowing users to filter data by Product Category, Region, and Time Period.
+
+Trend Identification: Created time-series visualizations to track sales fluctuations and identify peak order periods.
+
+Performance Metrics: Calculated key KPIs such as Total Revenue, Average Order Value (AOV), and Top-Selling Products.
